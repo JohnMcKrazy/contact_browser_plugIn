@@ -12,6 +12,8 @@ This is a HTML and CSS practice exercise.
 -   HTML
 -   CSS
 
+<h2>Function:</h2>
+
 Now you can reach me more easy<br>
 You have all my social media and work pages in one click.
 <br>
