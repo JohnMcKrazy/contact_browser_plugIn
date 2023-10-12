@@ -16,7 +16,9 @@ This is a HTML and CSS practice exercise.
 
 Now you can reach me more easy<br>
 You have all my social media and work pages in one click.
-<br>
+
+<h2>Instructions:</h2>
+
 You need to install this small add-on to your browser.
 Steps to follow:
 
