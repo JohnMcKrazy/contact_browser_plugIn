@@ -8,6 +8,7 @@ This is a HTML and CSS practice exercise.
 <br>
 
 <h2>Tecnologies:</h2>
+
 -   HTML
 -   CSS
 
