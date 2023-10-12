@@ -7,7 +7,7 @@ Hello everyone....
 This is a HTML and CSS practice exercise.
 <br>
 
-<h2>Tecnologies</h2>
+<h2>Tecnologies:</h2>
 -   HTML
 -   CSS
 
@@ -21,6 +21,7 @@ Steps to follow:
 -   Activate developer mode.
 -   Click on "Load Unpacked".
 -   Select the files folder.
+-   Enjoy.
 <hr>
 
 ## Authors
