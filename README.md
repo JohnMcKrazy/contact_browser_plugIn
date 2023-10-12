@@ -1,5 +1,5 @@
 <h1>John Krazy Contact Extention</h1>
-Date (12 OCT 2023)
+Date (12 oct 2023)
 <br>
 
 Hello everyone....
