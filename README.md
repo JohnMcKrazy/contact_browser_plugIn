@@ -1,22 +1,15 @@
-<style>
-H1{
-    color:skyblue;
-}
-  </style>
-
 <h1>John Krazy Contact Extention</h1>
 Date (12 OCT 2023)
 <br>
 
 Hello everyone....
 <br>
-This is a HTML, SCC and JavaScript practice exercise.
+This is a HTML and CSS practice exercise.
 <br>
 
 <h2>Tecnologies</h2>
 -   HTML
 -   CSS
--   Vanilla JavaScript
 
 Now you can reach me more easy<br>
 You have all my social media and work pages in one click.
