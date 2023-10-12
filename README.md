@@ -4,13 +4,14 @@ Date (12 oct 2023)
 
 Hello everyone....
 <br>
-This is a HTML and CSS practice exercise.
+This is a HTML ,CSS and Json practice exercise.
 <br>
 
 <h2>Tecnologies:</h2>
 
 -   HTML
 -   CSS
+-   JSON
 
 <h2>Function:</h2>
 
