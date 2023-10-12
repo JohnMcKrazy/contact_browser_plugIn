@@ -21,6 +21,7 @@ You have all my social media and work pages in one click.
 <h2>Instructions:</h2>
 
 You need to install this small extention to your browser.
+<br>
 Steps to follow:
 
 -   Access the extension control of your browser (Chrome, Brave).
