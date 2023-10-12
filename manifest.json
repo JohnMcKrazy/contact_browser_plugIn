@@ -1,0 +1,30 @@
+{
+    "name": "My Extension",
+    "description": "A plain text description",
+    "version": "1.0.1",
+    "manifest_version": 3,
+    "action": {
+        "default_popup": "popup.html",
+        "default_title": "Click Me",
+        "default_icon": {
+            "16": "/src/img/johnK_icon_16.png",
+            "24": "/src/img/johnK_icon_24.png",
+            "32": "/src/img/johnK_icon_32.png",
+            "48": "/src/img/johnK_icon_48.png",
+            "128": "/src/img/johnK_icon_128.png"
+        }
+    },
+    "icons": {
+        "16": "/src/img/johnK_icon_16.png",
+        "24": "/src/img/johnK_icon_24.png",
+        "32": "/src/img/johnK_icon_32.png",
+        "48": "/src/img/johnK_icon_48.png",
+        "128": "/src/img/johnK_icon_128.png"
+    },
+    "content_scripts": [
+        {
+            "matches": ["https://www.google.com/"],
+            "js": ["/src/js/close_ad.js"]
+        }
+    ]
+}
